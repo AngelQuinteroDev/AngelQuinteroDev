@@ -1,9 +1,11 @@
-# 👋 Hola, soy Ángel Quintero
+# 👋 Hola, soy Ángel Quintero  
 
-💻 Ingeniero Multimedia| Backend Developer and IA 
-🚀 Apasionado por la IA
+💻 Ingeniero Multimedia | Backend Developer & IA  
+🚀 Apasionado por la inteligencia artificial, los datos y las soluciones tecnológicas que generan impacto positivo.
 
-## 🚀 Tecnologías
+---
+
+## 🚀 Tecnologías y Herramientas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -13,12 +15,23 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 🏅 Trofeos  
+![trophy](https://github-profile-trophy.vercel.app/?username=AngelQuinteroDev&theme=radical&row=1&column=6)  
+
+---
+
+## 🐍 Mi actividad en GitHub  
+![Snake animation](https://github.com/AngelQuinteroDev/AngelQuinteroDev/blob/output/github-contribution-grid-snake.svg)  
 
 
-## 📊 Estadísticas
-![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelQuinteroDev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelQuinteroDev&layout=compact&theme=radical)
+---
 
-## 📬 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+## 📬 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuweb.com)  
+
