@@ -25,7 +25,7 @@
 ---
 
 ## 🐍 Mi actividad en GitHub  
-![Snake animation](https://github.com/AngelQuinteroDev/AngelQuinteroDev/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/AngelQuinteroDev/blob/output/github-contribution-grid-snake.svg)  
 
 
 ---
