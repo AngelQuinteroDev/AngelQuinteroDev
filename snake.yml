@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Corre todos los días a medianoche de Bogotá (UTC-5) = 05:00 UTC
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}   # para poder lanzarlo manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Genera solo SVGs (más rápido) con el action oficial
+      - name: Generate SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AngelQuinteroDev
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Publica los SVGs en la rama "output" (evita ensuciar main)
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

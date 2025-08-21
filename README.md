@@ -10,6 +10,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
@@ -19,13 +20,9 @@
 
 ---
 
-## 🏅 Trofeos  
-![trophy](https://github-profile-trophy.vercel.app/?username=AngelQuinteroDev&theme=radical&row=1&column=6)  
-
----
-
 ## 🐍 Mi actividad en GitHub  
-![Snake animation](https://github.com/AngelQuinteroDev/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/AngelQuintero27/AngelQuintero27/blob/output/snake.svg)
+
 
 
 ---
