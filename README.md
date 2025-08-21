@@ -22,9 +22,9 @@
 
 ### 🐍 Mi actividad en GitHub
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelQuintero27/AngelQuinteroDev/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelQuintero27/AngelQuinteroDev/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AngelQuinteroDev/AngelQuintero27/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelQuinteroDev/AngelQuinteroDev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelQuinteroDev/AngelQuinteroDev/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AngelQuinteroDev/AngelQuinteroDev/output/snake.svg" />
 </picture>
 
 
