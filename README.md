@@ -1,7 +1,7 @@
 # 👋 Hola, soy Ángel Quintero  
 
 💻 Ingeniero Multimedia | Backend Developer & IA  
-🚀 Apasionado por la inteligencia artificial, los datos y las soluciones tecnológicas que generan impacto positivo.
+🚀 Apasionado por la inteligencia artificial, los datos y las soluciones tecnológicas que generan un impacto positivo.
 
 ---
 
