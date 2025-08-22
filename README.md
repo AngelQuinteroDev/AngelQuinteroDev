@@ -31,7 +31,7 @@
 ---
 
 ## 📬 Conecta conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuweb.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelquinterodev/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelquintero.dev@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelquintero.dev)  
 
