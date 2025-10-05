@@ -1,11 +1,11 @@
 # 👋 Hola, soy Ángel Quintero  
 
-💻 Ingeniero Multimedia | Backend Developer & IA  
-🚀 Apasionado por la inteligencia artificial, los datos y las soluciones tecnológicas que generan un impacto positivo.
+💻 Multimedia Engineer | Backend Developer & IA  
+🚀 Passionate about artificial intelligence, data, and technological solutions that create a positive impact.
 
 ---
 
-## 🚀 Tecnologías y Herramientas  
+## 🚀 Technologies and Tools 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -20,7 +20,7 @@
 
 ---
 
-### 🐍 Mi actividad en GitHub
+### 🐍 My activity on GitHub
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelQuinteroDev/AngelQuinteroDev/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelQuinteroDev/AngelQuinteroDev/output/snake.svg" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 📬 Conecta conmigo  
+## 📬 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelquinterodev/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelquintero.dev@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelquintero.dev)  
