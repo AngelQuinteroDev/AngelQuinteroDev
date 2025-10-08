@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ángel Quintero  
+# 👋 Hi, i'm Ángel Quintero  
 
 💻 Multimedia Engineer | Backend Developer & IA  
 🚀 Passionate about artificial intelligence, data, and technological solutions that create a positive impact.
