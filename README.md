@@ -4,7 +4,7 @@
 
 ### Multimedia Engineer | Backend Developer | AI Enthusiast
 
-🚀 Passionate about building scalable backend systems, integrating AI solutions, and creating meaningful digital experiences.
+🚀 Passionate about artificial intelligence, data, and technological solutions that create a positive impact.
 
 **[Portfolio](https://angelquintero.dev) • [LinkedIn](https://www.linkedin.com/in/angelquinterodev/) • [Email](mailto:angel@angelquintero.dev)**
 
@@ -25,7 +25,6 @@ I'm a multimedia engineer focused on **backend development** and **artificial in
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Databases
@@ -39,47 +38,6 @@ I'm a multimedia engineer focused on **backend development** and **artificial in
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square&logo=api&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B9D?style=flat-square&logo=tensorflow&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelQuinteroDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelQuinteroDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🚀 E-Commerce API
-A scalable REST API for an e-commerce platform with user authentication, product management, and order processing.
-
-**Stack:** Node.js • Express • PostgreSQL • JWT
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/AngelQuinteroDev)
-
----
-
-### 🤖 AI Content Generator
-Backend service that integrates AI models to generate content with caching and optimization for better performance.
-
-**Stack:** Python • FastAPI • OpenAI • Redis
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/AngelQuinteroDev)
-
----
-
-### 📊 Real-time Analytics Dashboard
-Backend system for processing and streaming real-time analytics data with WebSocket support.
-
-**Stack:** Node.js • MongoDB • WebSockets • Docker
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/AngelQuinteroDev)
 
 ---
 
